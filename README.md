@@ -26,7 +26,9 @@ The rounds of funding are as follows:
     5. September 8, 2016: **Series B**     - _7 investors_ - $12,000,000
     6. June 19, 2018: **Series C**         - 8 _investors_ - $28,000,000
 
-    ![Alt Text](https://media.giphy.com/media/xTkcExjXuOJj69fVv2/giphy.gif)
+   
+    ![Alt Text](https://media.giphy.com/media/26FPLMDDN5fJCir0A/giphy.gif)
+
 
 ---
 
