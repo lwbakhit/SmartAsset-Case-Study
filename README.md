@@ -65,15 +65,15 @@ The rounds of funding are as follows:
 ## Results
 
 * What has been the business impact of this company so far?
-SmartAsset has already made a big impact in the way people can access Personal Financial content and plan to make smarter decisions. They provide such a large array of information all linked by their main site, giving investors one place to find all the personal financial education they could ask for. By adding their Live Connections, they opened the doors to providing a direct path to traditional financial advice as well. There is consistent site traffic of more than 13 million visitors a month and they reach an audience of over 65,000,000 people per month between their tools/articles, so it's safe to say they have already impacted many financial decisions.
+SmartAsset has already made a big impact in the way people can access Personal Financial content and plan to make **smarter decisions**. They provide such a large array of information all linked by their main site, giving investors one place to find all the personal financial education they could ask for. By adding their Live Connections, they opened the doors to providing a direct path to traditional financial advice as well. There is consistent site traffic of more than **13 million visitors per month** and they reach an **audience of over 65,000,000 people per month between their tools/articles**, so it's safe to say they have already impacted many financial decisions.
 
-* The growth metrics used by SmartAsset are both Revenue, Web Traffic, and Audience reached. SmartAsset isn't as large as some of its' competitors, but with its' new technologies recently coming into play this past year, there is room for a jump in growth. They currently have an annual revenue of about $22,100,000, monthly web traffic averaging just over 13 million, and an excess of 65 million audience members. Some of their competitors are much larger in comparison, but their innovative technology is proving to put them on a track towards a successful future in the Personal Finance domanin in the FinTech industry. 
+* The growth metrics used by SmartAsset are _Revenue, Web Traffic, and Audience reached_. SmartAsset isn't as large as some of its' competitors, but with its' new technologies recently coming into play this past year, there is room for a jump in growth. They currently have an annual revenue of about $22,100,000, monthly web traffic averaging just over 13 million, and an excess of 65 million audience members. Some of their competitors are much larger in comparison, but their innovative technology is proving to put them on a track towards a successful future in the Personal Finance domanin in the FinTech industry. 
 
 ---
 
 ## Recommendations
 
-* Based on my research of SmartAsset and the ability they have to reach a wider audience and gain more market share, I would suggest Robo Advisors. Obviously this would mean a large amount of planning and extra funding, but with the direction the financial services industry is heading it could be a game changer for future growth.
+* Based on my research of SmartAsset and the ability they have to reach a wider audience and gain more market share, I would suggest **Robo Advisors**. Obviously this would mean a large amount of planning and extra funding, but with the direction the financial services industry is heading it could be a game changer for future growth.
 
     ![Alt Text](https://media.giphy.com/media/S53EdsJhFlhmZuDaEE/giphy.gif)
 
