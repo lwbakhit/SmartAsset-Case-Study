@@ -26,7 +26,7 @@ The rounds of funding are as follows:
     5. September 8, 2016: **Series B**     - _7 investors_ - $12,000,000
     6. June 19, 2018: **Series C**         - 8 _investors_ - $28,000,000
 
-
+    ![Alt Text](https://media.giphy.com/media/xTkcExjXuOJj69fVv2/giphy.gif)
 
 ---
 
@@ -73,10 +73,14 @@ SmartAsset has already made a big impact in the way people can access Personal F
 
 * Based on my research of SmartAsset and the ability they have to reach a wider audience and gain more market share, I would suggest Robo Advisors. Obviously this would mean a large amount of planning and extra funding, but with the direction the financial services industry is heading it could be a game changer for future growth.
 
+    ![Alt Text](https://media.giphy.com/media/S53EdsJhFlhmZuDaEE/giphy.gif)
+
 * SmartAsset already has the attention of their audience, so instead of selling away the leads to financial advisors, they could become clients of SmartAsset if they were set up in a way to facilitate the relationship. With FinTech shaking up traditional financial services, many investors are flocking to the virtual advising space, which could mean adding a very lucrative additional service for the company. By not trying to take advantage of the advice they give to their audience, it's almost like a Financial Planner doing all the research and then selling the client to another planner for a small fee in comparison to the value the client brings to the planner's book of business.
 
 
 * The additional service of Robo Advisors would utilize algorithms to generate portfolios for customers and allocate assets using the correct diversification to meet the client's needs. They should aim for their technology to be as effective as "Betterment" or "Wealthfront", who are some of the leading Robo Advisor technologies in the market. By correctly optimizing the technology, the robo advisors can auto rebalance portfolios, give advice as to where investments should be placed, and follow the client's risk tolerance to accurately deign a strategy.
+
+    ![Alt Text](https://media.giphy.com/media/ViBN1GDg1MdgKKz9gj/giphy.gif)
 
 * These technologies are appropriate for my solution because they provide the investor with a relatively low cost alternative to investments with traditional financial services. They are apropriate a large range of investors and can take the hassle out of actively managing a portfolio. 
 
